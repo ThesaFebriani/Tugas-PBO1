@@ -74,4 +74,4 @@ Pada kode diatas kita membuat sebuah list dengan nama "my_array" yang berisi beb
 Luaran yang dihasilkan:
 
 <img width="156" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/e2130b34-cc1a-4fb2-a44f-47d800d0022a">
-# Tugas-PBO1
+
