@@ -33,7 +33,8 @@ Luaran yang dihasilkan:
 
 - **Program Pengecekan bilangan 2 dan 3**
 
-    <img width="303" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/4da6da5b-989b-4df2-8801-69bef85e02f9">
+    <img width="263" alt="image" src="https://github.com/ThesaFebriani/Tugas-PBO1/assets/147154548/412a6c81-a9bf-4b1f-9233-f4128fd75f0a">
+
 
   Penjelasan:
 
@@ -51,7 +52,8 @@ Luaran yang dihasilkan:
 
 ### 2.2 _Program if else pada while loop_
 
-  <img width="602" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/08337736-7d6f-4d68-b486-d7aaaa554a88">
+  <img width="513" alt="image" src="https://github.com/ThesaFebriani/Tugas-PBO1/assets/147154548/07560fc0-ab73-43df-ad28-fbf3a8de3d6a">
+
 
 Penjelasan:
 
@@ -64,6 +66,7 @@ Luaran yang dihasilkan:
 ## 3 _Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for_
 
 <img width="409" alt="image" src="https://github.com/ThesaFebriani/Responsi-Proyek-PBO/assets/147154548/8ce2d042-b438-43b7-af74-c96d921b177a">
+
 
 Penjelasan:
 Pada kode diatas kita membuat sebuah list dengan nama "my_array" yang berisi beberapa nilai. Kemudian kita akan menampilkan nilai dari list tersebut. print("Isi dari variabel my_array:") adalah pesan yang akan ditampilkan sebelum mencetak nilai dari list my_array. Menambahkan perulangan for yang berfungsi untuk melihat setiap elemen yang ada di dalam list my_array. print(item) digunakan untuk perulangan for, nilai dari item akan menjadi angka yang ada dalam list my_array. Instruksi ini akan mencetak nilai item.
